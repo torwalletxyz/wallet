@@ -1,7 +1,8 @@
 # Tor Wallet 
 
-The private Ethereum wallet with built-in Tor
+The private Ethereum wallet with built-in Tor.
 
+[![Watch the video](https://i.imgur.com/yfMzGYf.png)](https://youtu.be/wXw17wIWcWU)
 
 ## Getting started
 
